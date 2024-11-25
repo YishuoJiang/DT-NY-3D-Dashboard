@@ -1,0 +1,13 @@
+{
+    "title" : "Empire State Building",
+    "Electricity_Consumption" : "2123.42",
+    "Water_Consumption" : "1272.12",
+    "Scope_1_emission" : "412.12",
+    "Scope_2_emission" : "224.21",
+    "Scope_3_emission" : "1076.87",
+    "CO" : "12.68",
+    "NOx" : "55.82",
+    "SO2" : "31.84",
+    "PM10": "22.25",
+    "PM2point5" : "12.21"
+}

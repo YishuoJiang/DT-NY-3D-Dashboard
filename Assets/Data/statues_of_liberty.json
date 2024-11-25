@@ -1,0 +1,13 @@
+{
+    "title" : "Statue Of Liberty",
+    "Electricity_Consumption" : "1123.42",
+    "Water_Consumption" : "12372.12",
+    "Scope_1_emission" : "122.12",
+    "Scope_2_emission" : "3124.21",
+    "Scope_3_emission" : "8765.87",
+    "CO" : "0.2",
+    "NOx" : "45.82",
+    "SO2" : "51.84",
+    "PM10": "11.25",
+    "PM2point5" : "25.21"
+}
